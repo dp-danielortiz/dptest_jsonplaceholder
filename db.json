@@ -1,9 +1,20 @@
 {
-  "posts": [
+  "items": [
     {
       "id": 1,
-      "title": "hello"
-    }
+      "name": "shoe",
+      "color":"brown"
+    },
+    {
+      "id": 2,
+      "name": "tennis",
+      "color":"red"
+    },
+    {
+      "id": 3,
+      "name": "cap",
+      "color":"red"
+    }    
   ],
   "profile": {
     "name": "typicode"
