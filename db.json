@@ -2,19 +2,24 @@
   "items": [
     {
       "id": 1,
-      "name": "shoe",
       "color":"brown"
     },
     {
       "id": 2,
-      "name": "tennis",
       "color":"red"
     },
     {
       "id": 3,
-      "name": "cap",
+      "color":"green"
+    },
+    {
+      "id": 4,
+      "color":"blue"
+    },
+    {
+      "id": 9,
       "color":"red"
-    }    
+    },
   ],
   "profile": {
     "name": "typicode"
